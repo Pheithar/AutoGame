@@ -4,6 +4,7 @@ class Character():
         self.name = name
         self.attack = attack
         self.health = health
+        self.maxHealth = health
         self.range = range
         self.position = position
         self.team = None
